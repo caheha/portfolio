@@ -1,0 +1,64 @@
+[{
+    "name": "HTML",
+    "icon": "<i class='fab fa-html5'></i>"
+},
+{
+    "name": "CSS",
+    "icon": "<i class='fab fa-css3-alt'></i>"
+},
+{
+    "name": "JavaScript",
+    "icon": "<i class='fab fa-js'></i>"
+},
+{
+    "name": "GitHub",
+    "icon": "<i class='fab fa-github'></i>"
+},
+{
+    "name": "React",
+    "icon": "<i class='fab fa-react'></i>"
+},
+{
+    "name": "Python",
+    "icon": "<i class='fab fa-python'></i>"
+},
+{
+    "name": "Node.js",
+    "icon": "<i class='fab fa-node-js'></i>"
+},
+{
+    "name": "WordPress",
+    "icon": "<i class='fab fa-wordpress-simple'></i>"
+},
+{
+    "name": "npm",
+    "icon": "<i class='fab fa-npm'></i>"
+},
+{
+    "name": "VS Code",
+    "icon": "<img src='/img/skills/vs.svg' alt='Visual Studio Code'>"
+},
+{
+    "name": "After Effects",
+    "icon": "<img src='/img/skills/ae.svg' alt='After Effects'>"
+},
+{
+    "name": "Illustrator",
+    "icon": "<img src='/img/skills/ai.svg' alt='Illustrator'>"
+},
+{
+    "name": "inDesign",
+    "icon": "<img src='/img/skills/id.svg' alt='inDesign'>"
+},
+{
+    "name": "Premiere Pro",
+    "icon": "<img src='/img/skills/pr.svg' alt='Premiere Pro'>"
+},
+{
+    "name": "Photoshop",
+    "icon": "<img src='/img/skills/ps.svg' alt='Photoshop'>"
+},
+{
+    "name": "XD",
+    "icon": "<img src='/img/skills/xd.svg' alt='XD'>"
+}]
